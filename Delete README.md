@@ -1,0 +1,1 @@
+# delete Git Credential Manager
